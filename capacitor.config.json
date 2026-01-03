@@ -1,6 +1,6 @@
 ﻿{
     "appId": "com.ednovas.donguatv",
-    "appName": "E视界",
+    "appName": "汪同学的E视界",
     "webDir": "public",
     "server": {
         "url": "http://192.168.5.100:33000",
